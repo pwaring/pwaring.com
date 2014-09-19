@@ -1,2 +1,10 @@
 title: IT Consultant
 ----
+<!-- Main component for a primary marketing message or call to action -->
+      <div class="jumbotron">
+        <p>I currently work full time and am seeking a non-executive position with a business or charity which could benefit from my technical and commercial skills.</p>
+        <p>Outside of work, I run <a href="http://www.currybeer.com">Currybeer</a> and <a href="http://www.geekwalks.co.uk">Geek Walks</a>, and act as treasurer and webmaster for the <a href="http://www.manchesterca.org.uk">Manchester Classical Association</a>. I&#8217;m also a regular attendee at <a href="http://www.manlug.org" target="_blank">ManLUG</a> and have given <a href="http://www.phpdeveloper.org.uk/talks/">talks</a> on a variety of subjects.</p>
+        <p>
+          <a class="btn btn-lg btn-primary" href="/contact/" role="button">Contact me &raquo;</a>
+        </p>
+      </div>
