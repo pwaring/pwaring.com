@@ -3,7 +3,7 @@ title: Book Reviews
 <p>I regularly review books for some of the organisations which I'm a member of. I'm also happy to review books for other publications free of charge, on the proviso that I get to keep the book afterwards. Please <a href="/contact/">contact me</a> if you'd like me to review a particular text.</p>
 <h3>FLOSS UK Newsletter</h3>
 <p>Published quarterly, the <a href="http://www.flossuk.org/Newsletter">FLOSS UK newsletter</a> (previously UKUUG newsletter) is one of the publications which I regularly contribute to. I have also edited the newsletter since August 2014.</p>
-<ol>
+<ul>
 <li>21st Century C (March 2013)</li>
 <li>Agile Web Development with Rails (4th Ed.) (September 2011)</li>
 <li><a href="http://www.ukuug.org/books/reviews/Apache%20Cookbook/">Apache Cookbook</a> (March 2008)</li>
@@ -34,10 +34,12 @@ title: Book Reviews
 <li>REST In Practice (June 2011)</li>
 <li><a href="http://www.ukuug.org/books/reviews/Ruby%20on%20Rails:%20Up%20and%20Running/">Ruby on Rails: Up and Running</a> (December 2006)</li>
 <li>Safe C++ (September 2012)</li>
+<li>Seven Concurrency Models in Seven Weeks (December 2014)</li>
 <li><a href="http://www.ukuug.org/books/reviews/Sustainable%20Energy%20--%20Without%20the%20Hot%20Air/">Sustainable Energy &#8211; Without the Hot Air</a> (December 2008)</li>
 <li><a href="http://www.ukuug.org/books/reviews/The%20ThoughtWorks%20Anthology:%20Essays%20on%20Software%20Technology%20and%20Innovation/">The ThoughtWorks Anthology: Essays on Software Technology and Innovation</a> (June 2008)</li>
 <li>Twisted Network Programming Essentials (June 2013)</li>
+<li>Understanding and Using C Pointers (December 2014)</li>
 <li><a href="http://www.ukuug.org/books/reviews/Using%20Drupal/">Using Drupal</a> (June 2009)</li>
 <li>Vagrant: Up and Running (September 2013)</li>
 <li><a href="http://www.ukuug.org/books/reviews/Version%20Control%20with%20Subversion/">Version Control with Subversion</a> (December 2008)</li>
-</ol>
+</ul>
