@@ -5,7 +5,6 @@ title: IT Consultant
       <h1>Paul Waring</h1>
         <p>I'm a freelance IT consultant based in Greater Manchester. As well as the <a href="/services/">services I offer</a>, I'm also interested in a non-executive position with a business or charity which could benefit from my technical and commercial skills, having served on several boards in the past.</p>
 
-        <div class="container">
         <!-- Example row of columns -->
         <div class="row">
           <div class="col-md-4">
@@ -20,7 +19,6 @@ title: IT Consultant
             <h2>Consultancy</h2>
             <p>Advice on how to use IT to achieve your organisation's goals.</p>
           </div>
-        </div>
 
         <p>
           <a class="btn btn-lg btn-primary" href="/contact/" role="button">Contact me &raquo;</a>
