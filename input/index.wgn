@@ -19,9 +19,5 @@ title: IT Consultant
             <h2>Consultancy</h2>
             <p>Advice on how to use IT to achieve your organisation's goals.</p>
           </div>
-
-        <p>
-          <a class="btn btn-lg btn-primary" href="/contact/" role="button">Contact me &raquo;</a>
-        </p>
       </div>
     </div> <!-- /container -->
