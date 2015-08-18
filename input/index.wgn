@@ -4,28 +4,29 @@ title: IT Consultant
       <div class="jumbotron">
       <h1>Paul Waring</h1>
         <p>I'm a freelance IT consultant based in Greater Manchester. As well as the <a href="/services/">services I offer</a>, I'm also interested in a non-executive position with a business or charity which could benefit from my technical and commercial skills, having served on several boards in the past.</p>
+
+        <div class="container">
+        <!-- Example row of columns -->
+        <div class="row">
+          <div class="col-md-4">
+            <h2>Development</h2>
+            <p>Development and maintenance of bespoke software, primarily written in PHP.</p>
+            <p><a class="btn btn-default" href="http://www.phpdeveloper.org.uk" role="button">View details &raquo;</a></p>
+          </div>
+          <div class="col-md-4">
+            <h2>System Administration</h2>
+            <p>Setup, migration and management of Linux servers.</p>
+            <p><a class="btn btn-default" href="/services/system-administration/" role="button">View details &raquo;</a></p>
+         </div>
+          <div class="col-md-4">
+            <h2>Consultancy</h2>
+            <p>Advice on how to use IT to achieve your organisation's goals.</p>
+            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          </div>
+        </div>
+
         <p>
           <a class="btn btn-lg btn-primary" href="/contact/" role="button">Contact me &raquo;</a>
         </p>
-      </div>
-
-      <div class="container">
-      <!-- Example row of columns -->
-      <div class="row">
-        <div class="col-md-4">
-          <h2>Development</h2>
-          <p>Development and maintenance of bespoke software, primarily written in PHP.</p>
-          <p><a class="btn btn-default" href="http://www.phpdeveloper.org.uk" role="button">View details &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
-          <h2>System Administration</h2>
-          <p>Setup, migration and management of Linux servers.</p>
-          <p><a class="btn btn-default" href="/services/system-administration/" role="button">View details &raquo;</a></p>
-       </div>
-        <div class="col-md-4">
-          <h2>Consultancy</h2>
-          <p>Advice on how to use IT to achieve your organisation's goals.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
       </div>
     </div> <!-- /container -->
