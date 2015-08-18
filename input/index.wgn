@@ -9,19 +9,16 @@ title: IT Consultant
         <!-- Example row of columns -->
         <div class="row">
           <div class="col-md-4">
-            <h2>Development</h2>
+            <h2><a href="http://www.phpdeveloper.org.uk/">Development</a></h2>
             <p>Development and maintenance of bespoke software, primarily written in PHP.</p>
-            <p><a class="btn btn-default" href="http://www.phpdeveloper.org.uk" role="button">View details &raquo;</a></p>
           </div>
           <div class="col-md-4">
-            <h2>System Administration</h2>
+            <h2><a href="/services/system-administration/">System Administration</a></h2>
             <p>Setup, migration and management of Linux servers.</p>
-            <p><a class="btn btn-default" href="/services/system-administration/" role="button">View details &raquo;</a></p>
          </div>
           <div class="col-md-4">
             <h2>Consultancy</h2>
             <p>Advice on how to use IT to achieve your organisation's goals.</p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
           </div>
         </div>
 
