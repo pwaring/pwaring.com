@@ -58,6 +58,7 @@
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a>
                 <ul class="dropdown-menu" role="menu">
+                  <li><a href="/services/consultancy/">Consultancy</a></li>
                   <li><a href="/services/domain-registration/">Domain Registration</a></li>
                   <li><a href="http://www.longishosting.co.uk/" target="_blank">Hosting and Email</a></li>
                   <li><a href="http://www.insurancepaul.co.uk/" target="_blank">Insurance Consultancy</a></li>
