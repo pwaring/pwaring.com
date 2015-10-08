@@ -15,7 +15,7 @@
     <!-- /tmpl_if -->
 
     <!-- Bootstrap core CSS -->
-    <link href="http://cdn.pwaring.com/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://cdn.pwaring.com/css/flatly/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="http://cdn.pwaring.com/css/navbar.css" rel="stylesheet">
