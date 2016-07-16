@@ -1,14 +1,16 @@
 title: Services
 ----
 
-<p>I offer a range of services, including:</p>
+<h2>PHP Development</h2>
 
-<ul>
-<li><a href="/services/consultancy/">Consultancy</a></li>
-<li><a href="http://www.insurancepaul.co.uk/">Insurance Consultancy</a></li>
-<li><a href="http://www.phpdeveloper.org.uk/">PHP Development</a></li>
-<li><a href="/services/programming/">Programming</a></li>
-<li><a href="/services/system-administration/">System Administration</a></li>
-</ul>
+<p>I develop and maintain bespoke software written in PHP. For full details, please see my <a href="http://www.phpdeveloper.org.uk">PHP Developer</a> site.</p>
 
-<p>Don't see the service you're looking for? I have a range of contacts for other work, including designers, please <a href="/contact/">get in touch</a> for more details.</p>
+<h2>System Administration</h2>
+
+<p>Do you have a number of servers which need maintaining, but cannot justify a full time member of staff to look after them? For a monthly fee, I can take over the management of your servers, keeping the system software and other applications (e.g. WordPress) up to date. I work exclusively with Linux systems, using Ansible for configuration management and Git for version control.</p>
+
+<p>I can also assist with server migration and train staff on configuration management if you would prefer to keep system administration in-house.</p>
+
+<h2>Consultancy</h2>
+
+<p>Do you need advice on how to use IT to achieve your organisation's goals? I can help you analyse your current IT infrastructure and suggest and implement improvements to increase its effectiveness.</p>
