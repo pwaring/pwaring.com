@@ -15,15 +15,15 @@
     <!-- /tmpl_if -->
 
     <!-- Bootstrap core CSS -->
-    <link href="http://cdn.pwaring.com/css/flatly/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.pwaring.com/css/flatly/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="http://cdn.pwaring.com/css/navbar.css" rel="stylesheet">
+    <link href="https://cdn.pwaring.com/css/navbar.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
-      <script src="http://cdn.pwaring.com/js/html5shiv.min.js"></script>
-      <script src="http://cdn.pwaring.com/js/respond.min.js"></script>
+      <script src="https://cdn.pwaring.com/js/html5shiv.min.js"></script>
+      <script src="https://cdn.pwaring.com/js/respond.min.js"></script>
     <![endif]-->
   </head>
 
@@ -48,17 +48,9 @@
               <li><a href="/about/">About</a></li>
               <li><a href="/contact/">Contact</a></li>
               <li><a href="/cv/">CV</a></li>
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a>
-                <ul class="dropdown-menu" role="menu">
-                  <li><a href="/services/consultancy/">Consultancy</a></li>
-                  <li><a href="http://www.insurancepaul.co.uk/">Insurance Consultancy</a></li>
-                  <li><a href="http://www.phpdeveloper.org.uk/">PHP Development</a></li>
-                  <li><a href="/services/programming/">Programming</a></li>
-                  <li><a href="/services/system-administration/">System Administration</a></li>
-                </ul>
-              </li>
+              <li><a href="/services/">Services</a></li>
               <li><a href="/talks/">Talks</a></li>
+              <!--
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Writing <span class="caret"></span></a>
                 <ul class="dropdown-menu" role="menu">
@@ -67,8 +59,10 @@
                   <li><a href="/research/">Research</a></li>
                 </ul>
               </li>
+            -->
             </ul>
             <ul class="nav navbar-nav navbar-right">
+              <li><a href="tel:+447754-725-493">07754 725 493</a></li>
               <li><a href="mailto:paul@xk7.net">paul@xk7.net</a></li>
             </ul>
           </div><!--/.nav-collapse -->
@@ -78,7 +72,7 @@
       <!-- tmpl_var name='content' -->
 
       <div class="footer">
-        <p>Copyright &copy; 2015 <a href="http://www.pwaring.com/">Paul Waring</a>.</p>
+        <p>Copyright &copy; 2016 <a href="https://www.pwaring.com/">Paul Waring</a>.</p>
       </div>
 
     </div> <!-- /container -->
@@ -88,8 +82,8 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script src="http://cdn.pwaring.com/js/bootstrap.min.js"></script>
+    <script src="https://cdn.pwaring.com/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="http://cdn.pwaring.com/js/ie10-viewport-bug-workaround.js"></script>
+    <script src="https://cdn.pwaring.com/js/ie10-viewport-bug-workaround.js"></script>
   </body>
 </html>
