@@ -7,15 +7,15 @@ title: Freelance software developer and system administrator
         <!-- Example row of columns -->
         <div class="row">
           <div class="col-md-4">
-            <h2><a href="http://www.phpdeveloper.org.uk/">Development</a></h2>
+            <h2><a href="https://www.phpdeveloper.org.uk/services/">Development</a></h2>
             <p>Development and maintenance of bespoke software, primarily written in PHP.</p>
           </div>
           <div class="col-md-4">
-            <h2><a href="/services/">System Administration</a></h2>
+            <h2><a href="https://www.phpdeveloper.org.uk/services/">System Administration</a></h2>
             <p>Setup, migration and management of Linux servers, using Ansible and Git.</p>
          </div>
           <div class="col-md-4">
-            <h2><a href="/services/">Consultancy</a></h2>
+            <h2><a href="https://www.phpdeveloper.org.uk/services/">Consultancy</a></h2>
             <p>Advice on how to use IT to achieve your organisation's goals.</p>
           </div>
       </div>
